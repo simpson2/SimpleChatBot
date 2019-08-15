@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Chatbot","l":"age()"},{"p":"<Unnamed>","c":"Chatbot","l":"Chatbot()","url":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"Init","l":"Init()","url":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"Init","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"Chatbot","l":"name()"},{"p":"<Unnamed>","c":"Chatbot","l":"quiz()"}]
